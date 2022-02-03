@@ -1,0 +1,17 @@
+  var mes = parseInt (prompt ("ingresar un mes (1 - 12): "));
+switch (mes){
+  case 2:
+    console.log ("es invierno");
+      break;
+  case 5:
+    console.log ("es primavera");
+      break;
+  case 8:
+    console.log ("es verano");
+      break;
+  case 11:
+    console.log ("es otoño");
+      break;
+  default:
+    console.log ("18003932-Juan Carlos Veliz Azurdia")
+  }
